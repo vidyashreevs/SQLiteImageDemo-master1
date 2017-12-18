@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "C:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "C:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 47,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 66,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "C:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 66,
+                        "endOffset": 118
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Deepak Rao J\\Desktop\\My projects\\Listview_gallery_db2\\SQLiteImageDemo-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "C:\\Users\\Deepak Rao J\\Desktop\\My projects\\Listview_gallery_db2\\SQLiteImageDemo-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 47,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 66,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "C:\\Users\\Deepak Rao J\\Desktop\\My projects\\Listview_gallery_db2\\SQLiteImageDemo-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 66,
+                        "endOffset": 118
+                    }
+                }
+            }
+        ]
+    }
+]

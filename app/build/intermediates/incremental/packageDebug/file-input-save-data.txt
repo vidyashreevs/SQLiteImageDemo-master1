@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Mon Dec 04 18:23:31 IST 2017
+2.base=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\screen_list.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\facebook.png
+5.base=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.set=DEX
+2.file=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=C\:\\Users\\Deepak Rao J\\Downloads\\SQLiteImageDemo-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE
